@@ -2105,29 +2105,7 @@ http://shd12.oneplayer.site/token/SHD12/128331/1x4.mp4
 http://shd12.oneplayer.site/token/SHD12/128331/1x5.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cayJPwO.png" group-title="SERIE | MARIA E O CANGAÇO S01",S01 E06
 http://shd12.oneplayer.site/token/SHD12/128331/1x6.mp4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E01
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E02
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x2.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E03
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x3.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E04
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x4.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E05
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x5.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E06
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x6.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E07
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x7.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F4pXRfw.png" group-title="SERIE | CLASSE DOS HERÓIS FRACOS",S01 E08
-http://shd0.oneplayer.site/rfg54ry435y45y45y45y45y45rt23w4r324wt34tr34t3e4wtf582/SHD0/200709/1x8.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7OkL10.png" group-title="SERIE | CAÇADOR D DEMÔNIOS",S01 E01
 http://shd12.oneplayer.site/token/SHD12/229711/1x1.mp4
@@ -4837,8 +4815,436 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP227-Visita_indese
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E01
+http://shd13.oneplayer.site/SHD13/261980/1x1.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tja1FiC.png" group-title="Dorama | FLORES NO DESERTO",S01 E01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E02
+http://shd13.oneplayer.site/SHD13/261980/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E03
+http://shd13.oneplayer.site/SHD13/261980/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E04
+http://shd13.oneplayer.site/SHD13/261980/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E05
+http://shd13.oneplayer.site/SHD13/261980/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E06
+http://shd13.oneplayer.site/SHD13/261980/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E07
+http://shd13.oneplayer.site/SHD13/261980/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E08
+http://shd13.oneplayer.site/SHD13/261980/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E09
+http://shd13.oneplayer.site/SHD13/261980/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E10
+http://shd13.oneplayer.site/SHD13/261980/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E11
+http://shd13.oneplayer.site/SHD13/261980/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/86w4nik.png" group-title="Dorama | UMA SEUL DESCONHECIDA",S01 E12
+http://shd13.oneplayer.site/SHD13/261980/1x12.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E01
+http://shd12.oneplayer.site/token/SHD12/243964/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E02
+http://shd12.oneplayer.site/token/SHD12/243964/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E03
+http://shd12.oneplayer.site/token/SHD12/243964/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E04
+http://shd12.oneplayer.site/token/SHD12/243964/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E05
+http://shd12.oneplayer.site/token/SHD12/243964/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E06
+http://shd12.oneplayer.site/token/SHD12/243964/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E07
+http://shd12.oneplayer.site/token/SHD12/243964/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E08
+http://shd12.oneplayer.site/token/SHD12/243964/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E09
+http://shd12.oneplayer.site/token/SHD12/243964/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Fai1DU.png" group-title="Dorama | AMOR DE CINEMA",S01 E10
+http://shd12.oneplayer.site/token/SHD12/243964/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E01
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E02
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E03
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E04
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E05
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E06
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E07
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E08
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E09
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E10
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E11
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E12
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E13
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1sfT0Zf.png" group-title="Dorama | A BOA MÃE MÁ",S01 E14
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/214999/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E01
+http://shd12.oneplayer.site/token/SHD12/288300/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E02
+http://shd12.oneplayer.site/token/SHD12/288300/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E03
+http://shd12.oneplayer.site/token/SHD12/288300/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E04
+http://shd12.oneplayer.site/token/SHD12/288300/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E05
+http://shd12.oneplayer.site/token/SHD12/288300/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJDaILB.png" group-title="Dorama | KARMA",S01 E06
+http://shd12.oneplayer.site/token/SHD12/288300/1x6.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E01
+http://shd12.oneplayer.site/token/SHD12/233742/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E02
+http://shd12.oneplayer.site/token/SHD12/233742/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E03
+http://shd12.oneplayer.site/token/SHD12/233742/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E04
+http://shd12.oneplayer.site/token/SHD12/233742/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E05
+http://shd12.oneplayer.site/token/SHD12/233742/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E06
+http://shd12.oneplayer.site/token/SHD12/233742/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E07
+http://shd12.oneplayer.site/token/SHD12/233742/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9Qhdqe.png" group-title="Dorama | NEWTOPIA",S01 E08
+http://shd12.oneplayer.site/token/SHD12/233742/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E01
+http://shd12.oneplayer.site/token/SHD12/258764/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E02
+http://shd12.oneplayer.site/token/SHD12/258764/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E03
+http://shd12.oneplayer.site/token/SHD12/258764/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E04
+http://shd12.oneplayer.site/token/SHD12/258764/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E05
+http://shd12.oneplayer.site/token/SHD12/258764/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E06
+http://shd12.oneplayer.site/token/SHD12/258764/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E07
+http://shd12.oneplayer.site/token/SHD12/258764/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E08
+http://shd12.oneplayer.site/token/SHD12/258764/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E09
+http://shd12.oneplayer.site/token/SHD12/258764/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E10
+http://shd12.oneplayer.site/token/SHD12/258764/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E11
+http://shd12.oneplayer.site/token/SHD12/258764/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3LBKWO.png" group-title="Dorama |  SEGURO PARA DIVORCIADOS",S01 E12
+http://shd12.oneplayer.site/token/SHD12/258764/1x12.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E01
+http://shd12.oneplayer.site/token/SHD13/255779/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E02
+http://shd12.oneplayer.site/token/SHD13/255779/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E03
+http://shd12.oneplayer.site/token/SHD13/255779/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E04
+http://shd12.oneplayer.site/token/SHD13/255779/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E05
+http://shd12.oneplayer.site/token/SHD13/255779/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E06
+http://shd12.oneplayer.site/token/SHD13/255779/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E07
+http://shd12.oneplayer.site/token/SHD13/255779/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E08
+http://shd12.oneplayer.site/token/SHD13/255779/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E09
+http://shd12.oneplayer.site/token/SHD13/255779/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNmQyXc.png" group-title="Dorama | KAKEGURUI APOSTA",S01 E10
+http://shd12.oneplayer.site/token/SHD13/255779/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E01
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E02
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E03
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E04
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E05
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E06
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E07
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E08
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E09
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sg1Foef.png" group-title="Dorama | EXTRACURRICULAR",S01 E10
+http://shd2.oneplayer.site/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65npw/SHD2/90814/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E01
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E02
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E03
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E04
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E05
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E06
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E07
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E08
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E09
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E10
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E11
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E12
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E13
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x13.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E14
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x14.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E15
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x15.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BNDTeYv.png" group-title="Dorama | DOCE ENGANO",S01 E16
+http://shd8.oneplayer.site/67i567uyh56r4tgyh54rteh45yhg465uhy456ju56l2q/SHD8/210218/1x16.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E01
+http://shd12.oneplayer.site/token/SHD12/235355/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E02
+http://shd12.oneplayer.site/token/SHD12/235355/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E03
+http://shd12.oneplayer.site/token/SHD12/235355/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E04
+http://shd12.oneplayer.site/token/SHD12/235355/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E05
+http://shd12.oneplayer.site/token/SHD12/235355/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E06
+http://shd12.oneplayer.site/token/SHD12/235355/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E07
+http://shd12.oneplayer.site/token/SHD12/235355/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E08
+http://shd12.oneplayer.site/token/SHD12/235355/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E09
+http://shd12.oneplayer.site/token/SHD12/235355/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E10
+http://shd12.oneplayer.site/token/SHD12/235355/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E11
+http://shd12.oneplayer.site/token/SHD12/235355/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/epHBRHV.png" group-title="Dorama | RESIDENT PLAYBOOK",S01 E12
+http://shd12.oneplayer.site/token/SHD12/235355/1x12.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E01
+http://shd12.oneplayer.site/token/SHD12/230448/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E02
+http://shd12.oneplayer.site/token/SHD12/230448/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E03
+http://shd12.oneplayer.site/token/SHD12/230448/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E04
+http://shd12.oneplayer.site/token/SHD12/230448/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E05
+http://shd12.oneplayer.site/token/SHD12/230448/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E06
+http://shd12.oneplayer.site/token/SHD12/230448/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E07
+http://shd12.oneplayer.site/token/SHD12/230448/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E08
+http://shd12.oneplayer.site/token/SHD12/230448/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E09
+http://shd12.oneplayer.site/token/SHD12/230448/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kMJ5RxV.png" group-title="Dorama | Mr. PLANKTON",S01 E10
+http://shd12.oneplayer.site/token/SHD12/230448/1x10.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E01
+http://shd12.oneplayer.site/token/SHD12/254391/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E02
+http://shd12.oneplayer.site/token/SHD12/254391/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E03
+http://shd12.oneplayer.site/token/SHD12/254391/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E04
+http://shd12.oneplayer.site/token/SHD12/254391/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E05
+http://shd12.oneplayer.site/token/SHD12/254391/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E06
+http://shd12.oneplayer.site/token/SHD12/254391/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E07
+http://shd12.oneplayer.site/token/SHD12/254391/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E08
+http://shd12.oneplayer.site/token/SHD12/254391/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E09
+http://shd12.oneplayer.site/token/SHD12/254391/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E10
+http://shd12.oneplayer.site/token/SHD12/254391/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E11
+http://shd12.oneplayer.site/token/SHD12/254391/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zfurPcX.png" group-title="Dorama | AMOR E BATATAS",S01 E12
+http://shd12.oneplayer.site/token/SHD12/254391/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E01
+http://shd12.oneplayer.site/token/SHD12/230777/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E02
+http://shd12.oneplayer.site/token/SHD12/230777/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E03
+http://shd12.oneplayer.site/token/SHD12/230777/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E04
+http://shd12.oneplayer.site/token/SHD12/230777/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E05
+http://shd12.oneplayer.site/token/SHD12/230777/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E06
+http://shd12.oneplayer.site/token/SHD12/230777/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E07
+http://shd12.oneplayer.site/token/SHD12/230777/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbYRflB.png" group-title="Dorama | THE TRUNK",S01 E08
+http://shd12.oneplayer.site/token/SHD12/230777/1x8.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tja1FiC.png" group-title="Dorama | classe NO DESERTO",S01 E01
 http://shd9.oneplayer.site/y456y654uj54tyg34gfwer45r3hj465yh354rtgfwe4rfgtwku51/SHD9/224900/1x1.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tja1FiC.png" group-title="Dorama | FLORES NO DESERTO",S01 E02
