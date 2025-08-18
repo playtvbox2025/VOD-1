@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Kill O Massacre no Trem" tvg-logo="https://image.tmdb.org/t/p/w400/mxgrtJvngNhppjCwu2AvdCtvSXa.jpg" group-title="FILMES AÇAO",Kill O Massacre no Trem
+http://fenix7.cdn12.live/Filmes2024/Novembro/07-11/KILL.O.Massacre.no.Trem.mp4
+
+
 #EXTINF:-1 tvg-name="Improvisação Perigosa (2025) (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/AdnYxdx0w1LYiXlkSDSk62MdC71.jpg" group-title="Filmes Lancamentos 2025",Improvisação Perigosa (2025) (2025)
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31121295.mp4
 
@@ -207,7 +212,6 @@ https://dn721602.ca.archive.org/0/items/romeo-e-julieta-1968-1080p-maior-dublado
 https://ia600103.us.archive.org/30/items/retroceder-nunca-render-se-jamais-1986-1080p-maior-dublado/Retroceder%20Nunca%20Render-se%20Jamais%201986%201080p%20Maior%20Dublado.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/G32j6RZ.png" group-title="FILMES CLASSICO",O Foragido (1998)
-
 https://ia802302.us.archive.org/28/items/o-foragido-1998-open-matte-1080p-maior/O%20Foragido%201998%20Open%20Matte%201080p%20Maior.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7aP5Exo.png" group-title="FILMES CLASSICO",Férias do Barulho
@@ -302,6 +306,7 @@ https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Duck%20Tales.%20O%
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jdHaEX4.jpg" group-title="FILMES CLASSICO",...E o Vento Levou 
 https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/E%20o%20Vento%20Levou%20%281939%29.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/4FSEFvn.png" group-title="FILMES TERROR",Terror em Silent Hill
 https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Terror%20em%20Silent%20Hill.mp4
 
@@ -400,6 +405,7 @@ https://ia601604.us.archive.org/19/items/a-vida-dos-outros-2006-720p-dublado-ala
 
 #EXTINF:0 tvg-logo="https://imgur.com/QNTfCWK.jpg" group-title="FILMES DRAMA",QUATRO VIDAS DE UM CACHORRO - DUB
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/Daab18i.png" group-title="Filmes Lancamentos 2025",Como Treinar o Seu Dragão
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26743210.mp4
 
@@ -432,6 +438,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1144884.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/Ceq87JI.png" group-title="FILMES TERROR",Premonição 5
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1622979.mp4
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zvywFLj.png" group-title="FILMES INFANTIL",Alvin e os Esquilos 2
 https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Alvin%20e%20Os%20Esquilos%202%20DVDRip%20XviD%20Dublado%2FAlvin%20e%20os%20Esquilos%202%20DVDRip%20XviD%20Dublado.mp4
 
