@@ -2136,6 +2136,10 @@ https://cdn-vod-1.nxplay.com.br/hls/movies/053505e3-f257-41ab-aa5c-4b4c4b89e2bc/
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/661da30182196_c8290436c391e22e691b8dce4085ac38.jpg"group-title="FILMES TERROR",PERSEGUINDO O ASSASSINO
 https://cdn-vod-1.nxplay.com.br/hls/movies/769ed900-aebd-41c9-915b-769c8a8135fa/media_2.mp4/index-v1-a1.m3u8
 
+#EXTINF:-1  tvg-logo="https://imgur.com/mqna1Ht.png"group-title="FILMES TERROR",
+https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Espiral%20%20O%20Legado%20De%20Jogos%20Mortais%202021.mp4
+
+
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/659ea733c15dc_9cf1e055afbbea627e9d1ffed450082f.jpg"group-title="FILMES TERROR",RING 0
 https://cdn-vod-1.nxplay.com.br/hls/movies/04efe6b2-0ec0-4d54-b1f7-72b026fe7eba/media_2.mp4/index-v1-a1.m3u8
 
@@ -2188,6 +2192,7 @@ https://f005.backblazeb2.com/file/HubMidias/Filmes/Cora%C3%A7%C3%A3o+de+Cavaleir
 
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/original/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg"group-title="FILMES AÇAO",Disfarce Perigoso
 https://f005.backblazeb2.com/file/HubMidias/Filmes/Hitman.91.mp4
+
 
 
 
