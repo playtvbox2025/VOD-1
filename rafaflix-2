@@ -155,8 +155,8 @@ https://dn720308.ca.archive.org/0/items/videoplayback_20230803_1651/videoplaybac
 #EXTINF:-1 tvg-logo="https://imgur.com/3qSDXju.png" group-title="FILMES INFANTIL",Backyardigans Festa Na Caverna
 https://dn720308.ca.archive.org/0/items/dvd-backyardigans-festa-na-caverna-dvd-completo/DVD%20Backyardigans%20_%20Festa%20na%20Caverna%20%20%28DVD%20completo%29.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3qSDXju.png" group-title="FILMES INFANTIL",
-
+#EXTINF:-1 tvg-logo="https://imgur.com/oRsmAt5.png" group-title="FILMES INFANTIL",A Jornada de Vivo
+https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/A%20Jornada%20De%20Vivo%202021%201080P%20Webdl%20Dual%2051-1.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CVr3fh8.png" group-title="FILMES INFANTIL",Moranguinho A Paciente Impaciente
 https://ia903100.us.archive.org/34/items/moranguinho-a-paciente-impaciente-moranguinho-dvd-25-05-2005/Moranguinho%20A%20Paciente%20Impaciente%20%28MORANGUINHO%29%20DVD%20%2825-05-2005%29.mp4
@@ -304,6 +304,14 @@ https://dn720002.ca.archive.org/0/items/attila-o-rei-dos-hunos-2001-1080p-dublad
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KFPIRVl.png" group-title="FILMES AÇAO",O Último Dragão
 https://dn720400.ca.archive.org/0/items/o-ultimo-dragao-1985-1080p-maior-dublado/O%20Ultimo%20Drag%C3%A3o%201985%201080p%20Maior%20Dublado.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/b5COn36.png" group-title="FILMES COMÉDIA",Amizade de Férias
+https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Amizade%20De%20F%C3%A9rias%202021.mp4
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YFynEU4.png" group-title="FILMES COMÉDIA",Uma Escola Muito Doida
 https://ia601607.us.archive.org/14/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
@@ -1258,6 +1266,9 @@ https://www.googleapis.com/drive/v3/files/1LdhILVRl9KRCDJKca7N4yYtxRmCoAJaw?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vvrc8uW.png" group-title="FILMES FICÇÃO CIENTÍFICA",Escape room
 https://www.googleapis.com/drive/v3/files/1KM4lBk8iCXTTBSHnV3z4vqbMV4zn9vNP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
+#EXTINF:-1 tvg-logo="https://imgur.com/K38Hjzh.png" group-title="FILMES FICÇÃO CIENTÍFICA",Escape Room 2: Tensão Máxima
+https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Escaperoomtournamentofchampions20211.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TVbWFZb.jpeg" group-title="FILMES DRAMA",Sedução perigosa
 https://www.googleapis.com/drive/v3/files/10qprQ61svlM_LRkVT-KVSefo1zrJ4byB?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
@@ -1762,6 +1773,10 @@ https://www.googleapis.com/drive/v3/files/1FI3-m4_Stg8SpIFONHPLd08Mr8shlJfw?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbcQVuz.jpeg" group-title="FILMES INFANTIL/MUSICAL",Hannah Montana - O filme
 https://www.googleapis.com/drive/v3/files/1Fx1Dn-JV8LOsfiBYL8-ihdz4b2fVnNbg?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
+#EXTINF:-1 tvg-logo="https://imgur.com/gNmL7fj.jpeg" group-title="FILMES INFANTIL/MUSICAL",Cinderela
+https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Cinderela%202021.mp4
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zW2agTb.jpeg" group-title="FILMES AVENTURA",Piratas do caribe 5 - A Vingança de Salazar
 https://www.googleapis.com/drive/v3/files/17rUT_nk7RarVwC8HQLiIWyrhCc7z874S?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
@@ -2173,6 +2188,7 @@ https://f005.backblazeb2.com/file/HubMidias/Filmes/Cora%C3%A7%C3%A3o+de+Cavaleir
 
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/original/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg"group-title="FILMES AÇAO",Disfarce Perigoso
 https://f005.backblazeb2.com/file/HubMidias/Filmes/Hitman.91.mp4
+
 
 
 
