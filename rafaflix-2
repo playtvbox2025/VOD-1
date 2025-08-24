@@ -1,12 +1,23 @@
 
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://imgur.com/5CgOMqh.png" group-title="FILMES COMÉDIA",Como Enlouquecer Seu Chefe 
+https://ia801404.us.archive.org/32/items/como-enlouquecer-seu-chefe-1999-ptbr/Como%20Enlouquecer%20Seu%20Chefe%201999%20PTBR.mp4
+#EXTINF:-1  tvg-logo="https://imgur.com/n3FqaY4.png" group-title="FILMES COMÉDIA",Namorado Gelado, Coração Quente!
+https://ia600304.us.archive.org/6/items/namorado-gelado-coracao-quente-1993-ptbr/Namorado%20Gelado%2C%20Cora%C3%A7%C3%A3o%20Quente%21%201993%20PTBR.mp4
+
+
 #EXTINF:-1  tvg-logo="https://imgur.com/7QA5NDB.png" group-title="FILMES AÇAO",Batalha dos Impérios (2015) 
 https://ia800806.us.archive.org/16/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
 
+#EXTINF:-1  tvg-logo="https://imgur.com/rkUPhHu.png" group-title="FILMES DRAMA",Vitória
+https://ia600904.us.archive.org/1/items/vitoria-2025-ptbr/Vit%C3%B3ria%20%282025%29_PTBR.mp4
 
+#EXTINF:-1  tvg-logo="https://imgur.com/hqYffM7.png" group-title="FILMES COMÉDIA",A Vingança dos Nerds
+https://ia601601.us.archive.org/16/items/a-vinganca-dos-nerds/A%20Vingan%C3%A7a%20dos%20Nerds.mp4
 
-
+#EXTINF:-1  tvg-logo="https://imgur.com/pZQDSQp.png" group-title="FILMES COMÉDIA",Manequim- A Magia do Amor
+https://ia800906.us.archive.org/33/items/manequim-a-magia-do-amor-1991-ptbr/Manequim%20-%20A%20Magia%20do%20Amor%20%281991%29_PTBR.mp4
 
 
 
@@ -3063,6 +3074,7 @@ https://ia600601.us.archive.org/19/items/teaster/ARQIVOMRTO%2FAQMTO3-21%20.ia.mp
 https://ia600601.us.archive.org/19/items/teaster/ARQIVOMRTO%2FAQMTO3-22%20.ia.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/0nuK1yY.png" group-title="Series | Arquivo Morto",T03E23
 https://ia800601.us.archive.org/19/items/teaster/ARQIVOMRTO%2FAQMTO3-23%20.ia.mp4
+
 
 
 
