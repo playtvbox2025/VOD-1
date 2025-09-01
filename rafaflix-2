@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://imgur.com/5CgOMqh.png" group-title="FILMES COMÉDIA",Como Enlouquecer Seu Chefe 199
+http://54.39.173.153:80/movie/teste/teste/2.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/5CgOMqh.png" group-title="FILMES COMÉDIA",Como Enlouquecer Seu Chefe 
 https://ia801404.us.archive.org/32/items/como-enlouquecer-seu-chefe-1999-ptbr/Como%20Enlouquecer%20Seu%20Chefe%201999%20PTBR.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/n3FqaY4.png" group-title="FILMES COMÉDIA",Namorado Gelado, Coração Quente!
@@ -2537,6 +2540,7 @@ https://f005.backblazeb2.com/file/HubMidias/Filmes/Cora%C3%A7%C3%A3o+de+Cavaleir
 
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/original/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg"group-title="FILMES AÇAO",Disfarce Perigoso
 https://f005.backblazeb2.com/file/HubMidias/Filmes/Hitman.91.mp4
+
 
 
 
