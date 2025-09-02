@@ -1,13 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://imgur.com/5CgOMqh.png" group-title="FILMES COMÉDIA",Como Enlouquecer Seu Chefe 199
-http://54.39.173.153:80/movie/teste/teste/2.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/5CgOMqh.png" group-title="FILMES COMÉDIA",Como Enlouquecer Seu Chefe 
-https://ia801404.us.archive.org/32/items/como-enlouquecer-seu-chefe-1999-ptbr/Como%20Enlouquecer%20Seu%20Chefe%201999%20PTBR.mp4
-#EXTINF:-1  tvg-logo="https://imgur.com/n3FqaY4.png" group-title="FILMES COMÉDIA",Namorado Gelado, Coração Quente!
-https://ia600304.us.archive.org/6/items/namorado-gelado-coracao-quente-1993-ptbr/Namorado%20Gelado%2C%20Cora%C3%A7%C3%A3o%20Quente%21%201993%20PTBR.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/7QA5NDB.png" group-title="FILMES AÇAO",Batalha dos Impérios (2015) 
 https://ia800806.us.archive.org/16/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
@@ -15,29 +10,12 @@ https://ia800806.us.archive.org/16/items/youtube-yAPce-l3K9E/yAPce-l3K9E.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/rkUPhHu.png" group-title="FILMES DRAMA",Vitória
 https://ia600904.us.archive.org/1/items/vitoria-2025-ptbr/Vit%C3%B3ria%20%282025%29_PTBR.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hqYffM7.png" group-title="FILMES COMÉDIA",A Vingança dos Nerds
-https://ia601601.us.archive.org/16/items/a-vinganca-dos-nerds/A%20Vingan%C3%A7a%20dos%20Nerds.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/pZQDSQp.png" group-title="FILMES COMÉDIA",Manequim- A Magia do Amor
-https://ia800906.us.archive.org/33/items/manequim-a-magia-do-amor-1991-ptbr/Manequim%20-%20A%20Magia%20do%20Amor%20%281991%29_PTBR.mp4
-
-#EXTINF:-1 tvg-name="Superman (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30fNMmjk183FbyzURlrDCmMHTgk.jpg" group-title="FILMES LANÇAMENTOS 2025",Superman (2025)
-https://flayto.click/movie/3588551910/88551910/1565649.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/4muKOQa.png" group-title="FILMES LANÇAMENTOS 2025",Jurassic World: Recomeço
-https://flayto.click/movie/3588551910/88551910/1574402.mp4
-
-#EXTINF:-1 tvg-name="Improvisação Perigosa (2025) (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/AdnYxdx0w1LYiXlkSDSk62MdC71.jpg" group-title="FILMES LANÇAMENTOS 2025",Improvisação Perigosa (2025) (2025)
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31121295.mp4
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/U7htfFD.png" group-title="FILMES COMÉDIA"Os Garotos Perdidos
-https://ia801504.us.archive.org/9/items/os-garotos-perdidos-1987-ptbr/Os%20Garotos%20Perdidos%20%281987%29%20PTBR.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/6QK0xtx.png" group-title="FILMES TERROR"Amor à Primeira Mordida
 https://ia600905.us.archive.org/21/items/amor-a-primeira-mordida-1979/Amor%20a%20Primeira%20Mordida%20%281979%29.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/e4859hK.png" group-title="FILMES DRAMA"Piratas da Informática
 https://ia600403.us.archive.org/8/items/piratas-do-vale-do-silicio-1999-ptbr/Piratas%20do%20Vale%20do%20Sil%C3%ADcio%20%281999%29%20PTBR.mp4
-#EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/7m9suVg.png" group-title="FILMES LANÇAMENTOS 2025",Conclave
-https://ia801204.us.archive.org/16/items/conclave_202506/CONCLAVE.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/cwA8j04.png" group-title="FILMES DRAMA",Poder Além da Vida
 https://ia800108.us.archive.org/4/items/youtube-0XxCLLrWXxE/0XxCLLrWXxE.ia.mp4
@@ -48,32 +26,9 @@ https://ia601202.us.archive.org/14/items/youtube-WsCrZ5Njt70/WsCrZ5Njt70.ia.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/AXmbc0g.png" group-title="FILMES AÇAO",Connected
 https://ia902907.us.archive.org/27/items/youtube-cGJXsNoJ9bI/cGJXsNoJ9bI.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/R2a1z32.png" group-title="FILMES LANÇAMENTOS 2025",Os Radley
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22889928.mp4
 
-#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tnCO86oG2LYwaUdtKXY5XbLaT.jpg" group-title="FILMES LANÇAMENTOS 2025",Corações Roubados
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31240036.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/9XvkGNC.png" group-title="FILMES LANÇAMENTOS 2025",Branca de Neve
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6208148.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/sUi42r0.png" group-title="FILMES LANÇAMENTOS 2025",O Brutalista
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8999762.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/1JKBYKE.png" group-title="FILMES LANÇAMENTOS 2025",Mufasa: O Rei Leão
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13186482.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/x7U7pfP.png" group-title="FILMES LANÇAMENTOS 2025",Amor Bandido
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30788842.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/CRMLWBB.png" group-title="FILMES COMÉDIA",
-https://ia902908.us.archive.org/5/items/o.-p.-o.-dvdrip.-by.-cdms-life/O.P.O.DVDRip.By.CdmsLife.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/RDWN71B.png" group-title="FILMES COMÉDIA",Sem sentido
-http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0120820.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/GC2sYbO.png" group-title="FILMES COMÉDIA",A Missy Errada
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9619798.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/cd1rAAs.png" group-title="FILMES AÇAO",O Negociador 2018 LG
 https://dn720409.ca.archive.org/0/items/o-negociador-2018-the-negotiation-legendado-1080p/O%20Negociador%202018%20The%20Negotiation%20%28Legendado%29%201080p.ia.mp4
@@ -98,8 +53,6 @@ https://ia803208.us.archive.org/9/items/youtube-7hvgkxIrLlw/7hvgkxIrLlw.webm
 #EXTINF:-1  tvg-logo="https://imgur.com/ftFJBcL.png" group-title="FILMES AÇAO",Tubarão Touro
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14912006.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/LnqxlGO.png" group-title="FILMES LANÇAMENTOS 2025",O Mal Mora Aqui
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29341577.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/4Kc596S.png" group-title="FILMES TERROR",Submissão 
 https://vod3.cf.dmcdn.net/sec2(uUbo5k4SobohJngipdxZSs_RpCf5GzqYhrP3XWheggJrcDno1ILjB8PvUBt5cmOJK5VIcOv7GR_mp4_YMnMu04sfp_h6mwM0symwdf0MRM7LwdJtlK_iOq_i5Lj3h_SFSkttw_7xiS0MwAaDnQURX6jfLtDDiUNTMyPLt84NV2wpGBFcEoAji0WZjuM4X91c)/video/284/550/561055482_mp4_h264_aac_fhd_2.m3u8
@@ -113,11 +66,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6561576.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/XV42XEV.png" group-title="FILMES DRAMA",O Tatuador
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0817228.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/S5h4ZC4.png" group-title="FILMES LANÇAMENTOS 2025",Cão de Briga
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22489042.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/LdkCw5U.png" group-title="FILMES LANÇAMENTOS 2025",A Nova Geração da Máfia
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9010322.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/1NCeorU.png" group-title="FILMES AÇAO",Velocidade Máxima
 https://ia601007.us.archive.org/26/items/velocidade-maxima-1994-dublado-720p/Velocidade%20M%C3%A1xima%201994%20Dublado%20720p.MP4
@@ -125,8 +74,7 @@ https://ia601007.us.archive.org/26/items/velocidade-maxima-1994-dublado-720p/Vel
 #EXTINF:-1  tvg-logo="https://imgur.com/G2Jg0Kw.png" group-title="FILMES AÇAO",Invasão U.S.A.
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0089348.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/c6vH3Q1.png" group-title="FILMES LANÇAMENTOS 2025",Capitão América: Admirável Mundo Novo
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14513804.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/9ebgvt3.png" group-title="FILMES AÇAO",Guarda Costas e Assassinos
 http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4
@@ -134,11 +82,6 @@ http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/hVdtepR.png" group-title="FILMES THRILLER/CRIME",A Ordem
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26625693.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/67foLZX.png" group-title="FILMES LANÇAMENTOS 2025",Confia: Sonho de Cria
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34581855.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/RtpoRlR.png" group-title="FILMES LANÇAMENTOS 2025",Os Altos e Baixos do Amor
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30308957.mp4
 
 
 
@@ -148,23 +91,14 @@ https://ia803208.us.archive.org/30/items/tomorrowland-um-lugar-onde-nada-e-impos
 #EXTINF:-1  tvg-logo="https://imgur.com/FmwEcaO.png" group-title="FILMES FICÇÃO CIENTÍFICA",A Substância
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt17526714.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/ERAvjrS.png" group-title="FILMES LANÇAMENTOS 2025",Bogotá: A Cidade dos Sonhos Perdidos
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt22507374.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/s8tjaxI.png" group-title="FILMES LANÇAMENTOS 2025",Demon City
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35111035.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/s42HsHv.png" group-title="FILMES LANÇAMENTOS 2025",O Auto da Compadecida 2
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28696532.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/Ie7Fi9q.png" group-title="FILMES AÇAO",Agente Oculto 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1649418.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/ZKb5b5T.png" group-title="FILMES LANÇAMENTOS 2025",Meio Grávida
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30253036.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/j3nXBDG.png" group-title="FILMES COMÉDIA",As Aventuras Sexuais de um Casal em Crise
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18081000.mp4
+
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/AREQY6a.png" group-title="FILMES AÇAO",Sonic 3
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18259086.mp4
@@ -172,26 +106,12 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18259086.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/mu02r5u.png" group-title="FILMES AÇAO",Operação de Risco
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27635178.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/LMMJPeY.png" group-title="FILMES LANÇAMENTOS 2025",Ad Vitam
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32138452.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/1t40rqT.png" group-title="FILMES LANÇAMENTOS 2025",Missão Porto Seguro
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35330349.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/unDaP7G.png" group-title="FILMES DRAMA",Malcolm X
 http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0104797.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/hirqp6o.png" group-title="FILMES LANÇAMENTOS 2025",Masameer Junior
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31408343.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/cTos7Jh.png" group-title="FILMES LANÇAMENTOS 2025",Missão: Impossível – O Acerto Final
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9603208.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/5EnqoZK.png" group-title="FILMES LANÇAMENTOS 2025",Meu Eu do Futuro
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18559464.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/CnAPmdI.png" group-title="FILMES LANÇAMENTOS 2025",Homem com H
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35301431.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/QyWhcSA.png" group-title="FILMES TERROR",Baby Blue – Assassino em Série
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18376800.mp4
@@ -199,17 +119,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18376800.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/hKJfJ61.png" group-title="FILMES AÇAO",Ninja Assassino
 http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1186367.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/fcAjNCt.png" group-title="FILMES LANÇAMENTOS 2025",Lilo & Stitch
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11655566.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/fs7rxBj.png" group-title="FILMES LANÇAMENTOS 2025",Thunderbolts
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20969586.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/9p6XnWs.png" group-title="FILMES LANÇAMENTOS 2025",Karatê Kid: Lendas
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1674782.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/7hz5KpA.png" group-title="FILMES LANÇAMENTOS 2025",Rua do Medo: Rainha do Baile
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31433402.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/PqhRYq4.png" group-title="FILMES TERROR",O Buraco
 https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/O%20Buraco%20-%20Bluray%201080p%20Dual%20%C3%81udio%20-%20WWW.TORRENTDOSFILMES.COM%2FO%20Buraco%20-%20Bluray%201080p%20Dual%20%C3%81udio%20-%20WWW.TORRENTDOSFILMES.COM.ia.mp4
@@ -494,25 +404,7 @@ https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Justi%C3%A7a%
 #EXTINF:-1 tvg-logo="https://imgur.com/KFPIRVl.png" group-title="FILMES AÇAO",O Último Dragão
 https://dn720400.ca.archive.org/0/items/o-ultimo-dragao-1985-1080p-maior-dublado/O%20Ultimo%20Drag%C3%A3o%201985%201080p%20Maior%20Dublado.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/b5COn36.png" group-title="FILMES COMÉDIA",Amizade de Férias
-https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Amizade%20De%20F%C3%A9rias%202021.mp4
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/YFynEU4.png" group-title="FILMES COMÉDIA",Uma Escola Muito Doida
-https://ia601607.us.archive.org/14/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x8PXNUa.png" group-title="FILMES COMÉDIA",Asterix nos Jogos Olímpicos
-https://ia803201.us.archive.org/7/items/asterix-nos-jogos-olimpicos-2008-bluray-720p-maior/Asterix%20nos%20Jogos%20Ol%C3%ADmpicos%202008%20Bluray%20720p%20Maior.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/JTJBPDC.png" group-title="FILMES COMÉDIA",Asterix e Obelix: Missão Cleópatra
-https://ia600805.us.archive.org/32/items/asterix-e-obelix-missao-cleopatra-2002-blu-ray-720p-maior-dublado/Asterix%20e%20Obelix%20Missao%20Cleopatra%202002%20BluRay%20720p%20Maior%20Dublado.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/PTe4qut.png" group-title="FILMES COMÉDIA",Asterix e Obelix contra César
-https://dn721902.ca.archive.org/0/items/asterix-e-obelix-contra-cesar-1999-bluray-720p-maior-dublado/Ast%C3%A9rix%20e%20Ob%C3%A9lix%20Contra%20C%C3%A9sar%201999%20Bluray%20720p%20Maior%20Dublado.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/uTxlUIp.png" group-title="FILMES ROMANCE",A Praia dos Desejos
 https://ia600607.us.archive.org/2/items/a-praia-dos-desejos-1992-1080p-bluray/A%20Praia%20dos%20Desejos%201992%201080p%20Bluray.mp4
@@ -523,20 +415,11 @@ https://ia801403.us.archive.org/34/items/e-p-n/Escola%20Para%20Namorados%20N%C3%
 #EXTINF:-1 tvg-logo="https://imgur.com/JhASpDo.png" group-title="FILMES INFANTIL",Fatal Fury - 3 A FÚRIA
 https://ia801503.us.archive.org/0/items/fatal-fury-3-a-furia-1994-1080p/Fatal%20Fury%203%20-%20A%20F%C3%BAria%201994%201080p.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/BLJDKU0.png" group-title="FILMES COMÉDIA",Que Mulher É Essa?
-https://ia801407.us.archive.org/22/items/que-mulher-e-essa-2001-1080p-dublado/Que%20Mulher%20%C3%A9%20Essa%202001%201080p%20Dublado.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/47irFyy.png" group-title="FILMES AÇAO",O Grande Dragão Branco
 https://dn721601.ca.archive.org/0/items/o-grande-dragao-branco-1988-4-k-ultra-hd-multi-audio/O%20Grande%20Drag%C3%A3o%20Branco%201988%204K%20Ultra%20HD%20Multi%20Audio.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/wgzfWEh.png" group-title="FILMES COMÉDIA",Nunca Fui Santa LEG 
-https://dn720006.ca.archive.org/0/items/butimacheerleadernuncafuisantalegendadoptbr/But%20I%27m%20A%20cheerleader%20%28Nunca%20fui%20santa%29%20-%20Legendado%20PT_BR.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dvIhyiS.png" group-title="FILMES COMÉDIA",Gasparzinho e Wendy
-https://dn721802.ca.archive.org/0/items/gasparzinhoewendyherbertrichers/Gasparzinho%20e%20Wendy%20-%201998%20-%20Tri%20%C3%81udio%20DVDRip%20576p-RMZ-Leonardo%20Nunes.ia.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/B4Xi1Nx.png" group-title="FILMES COMÉDIA",Gasparzinho, o Fantasminha Camarada
-https://dn720303.ca.archive.org/0/items/gasparzinho1995daglobo/C45P3R.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WFpgshl.png" group-title="FILMES INFANTIL",A Chave Mágica
 https://ia803104.us.archive.org/16/items/achavemagicaglobo/A%20Chave%20M%C3%A1gica%20-%20Copia%20%281%29%20SEM%20IDIOMA.mp4
@@ -691,33 +574,6 @@ https://ia601604.us.archive.org/19/items/a-vida-dos-outros-2006-720p-dublado-ala
 #EXTINF:0 tvg-logo="https://imgur.com/QNTfCWK.jpg" group-title="FILMES DRAMA",QUATRO VIDAS DE UM CACHORRO - DUB
 https://ia601500.us.archive.org/4/items/lua4vidacachorro/lua4vidacachorro.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/Daab18i.png" group-title="FILMES LANÇAMENTOS 2025",Como Treinar o Seu Dragão
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26743210.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/8fGdV9B.png" group-title="FILMES LANÇAMENTOS 2025",Os Bad Boas
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27675583.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xOSZ217.png" group-title="FILMES LANÇAMENTOS 2025",O Palhaço no Milharal
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23060698.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Xg8BLGN.png" group-title="FILMES LANÇAMENTOS 2025",Bailarina – Do Universo de John Wick
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7181546.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xtLKuYc.png" group-title="FILMES LANÇAMENTOS 2025",Kaiju No. 8: Missão de Reconhecimento
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35636950.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qQJCd0z.png" group-title="FILMES LANÇAMENTOS 2025",Chefes de Estado
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13357520.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/xOOY6GO.png" group-title="FILMES LANÇAMENTOS 2025",Com Unhas e Dentes
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35669009.mp4
-
-#EXTINF:-1 tvg-logo="https://imgur.com/5fFkmLw.png" group-title="FILMES LANÇAMENTOS 2025",Dora e a Busca pelo Sol Dourado
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt32621553.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/gdI8raZ.png" group-title="FILMES LANÇAMENTOS 2025",Operação Panda: Missão Resgate
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28630624.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/ewKQd0T.png" group-title="FILMES TERROR",Premonição 4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1144884.mp4
 
@@ -771,11 +627,7 @@ https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/A%20%C3%93rf%C3%A3
 #EXTINF:-1 tvg-logo="https://imgur.com/dyaB8eb.png" group-title="FILMES TERROR",Olhos Famintos
 https://dn721801.ca.archive.org/0/items/olhos-famintos-UOLvideo.com/Olhos%20famintos%201%202001-%F0%9F%94%B0Walter%F0%9F%94%B0.ia.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/XQFxTn8.png" group-title="FILMES COMÉDIA",Space Jam: Um Novo Legado
-https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Space%20Jam%20%20Um%20Novo%20Legado%202021.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/LB9xo5k.png" group-title="FILMES COMÉDIA",A Entrevista
-https://dn721606.ca.archive.org/0/items/a-entrevista-2014-dublado-1080p/A%20Entrevista%20%282014%29%20Dublado%201080p.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/XUhB2pd.png" group-title="FILMES FICÇÃO CIENTÍFICA",Archive
 https://dn721608.ca.archive.org/0/items/archive.-2020.1080p.-webrip.-dublado/Archive.2020.1080p.WEBRip.Dublado.mp4
@@ -867,8 +719,7 @@ https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Alvin%20e%20Os%20E
 https://ia600204.us.archive.org/7/items/blu-ray-filmes-o-retorno-da-mumia-2001/%40BluRayFilmes_O%20Retorno%20da%20M%C3%BAmia%20%282001%29.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/Wc6rZsl.png" group-title="FILMES AÇAO",A Múmia
 https://dn721804.ca.archive.org/0/items/a.-mumia.-2017.720p.-blu-ray.-6-ch.x-264.-dublado-www.-bludv.-com-2/A.M%C3%BAmia.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM%20%282%29.ia.mp4
-#EXTINF:-1 tvg-logo="https://imgur.com/Y0FkPpm.png" group-title="FILMES COMÉDIA",As Bem-Armadas
-https://dn721905.ca.archive.org/0/items/as.-b-7m.-arm-7das.-my.-sabrigo.-gdrive.-filmes/As.B7m.Arm7das.My.Sabrigo.Gdrive.FIlmes.ia.mp4
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/reQmz37.png" group-title="FILMES INFANTIL",O Castelo Animado
 https://dn721605.ca.archive.org/0/items/o-castelo-animado-2004/O%20Castelo%20Animado%20%282004%29.mp4
@@ -902,8 +753,7 @@ https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Lucas%2C%20Um%20In
 #EXTINF:-1 tvg-logo="https://imgur.com/pB0LAkw.png" group-title="FILMES INFANTIL",Madagascar
 https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Madagascar%20%282005%29%20-%20BDRip%20720p%20-%20Dublado%20-%20LuanHarper.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ppfwDNr.png" group-title="FILMES COMÉDIA",Matilda
-https://dn721801.ca.archive.org/0/items/a-era-do-gelo-1-2-3-4/Matilda.%281996%29.Dublado.720p.By.Luan.Harper.mp4
+
 
 #EXTINF:0 tvg-logo="https://imgur.com/GlWZ4I1.jpg" group-title="FILMES ROMANCE",Diários de Intercâmbio
 https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Thesecretdiaryofanexchangestudent2021.mp4
@@ -911,8 +761,7 @@ https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Thesecretdiar
 #EXTINF:0 tvg-logo="http://i.imgur.com/qcRJkNI.jpg" group-title="FILMES ROMANCE",AMOR.COM - DUB
 https://ia601504.us.archive.org/32/items/luaAmor/luaAmor.MP4
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/y9LAh3B.jpg" group-title="FILMES COMÉDIA",Eu Fico Loko
-https://ia601504.us.archive.org/21/items/luaEuFicoLoko/luaEuFicoLoko.MP4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/4aRddgF.png" group-title="FILMES FICÇÃO CIENTÍFICA",A Guerra dos Mundos – O Ataque 2023
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12519802.mp4
@@ -926,8 +775,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12919688.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/CUie7EM.png" group-title="FILMES AÇAO",Acordo com o Diabo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13836760.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/9bySIqn.png" group-title="FILMES COMÉDIA",Ele é Um Gato!
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20672560.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/1KZ7IrQ.png" group-title="FILMES TERROR",Step Sisters
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt5267472.mp4
@@ -935,14 +783,11 @@ http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt5267472.
 #EXTINF:-1  tvg-logo="https://imgur.com/YSmmsYr.png" group-title="FILMES TERROR",Vem Brincar
 https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Vem%20Brincar%202020.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/zLfySEB.png" group-title="FILMES LANÇAMENTOS 2025",Baila, Vini
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34682248.mp4
-
-
 
 
 #EXTINF:-1  tvg-logo="https://imgur.com/TBGPzQb.png" group-title="FILMES DOCUMENTÁRIO",criaturas incriveis 2
 https://ia804502.us.archive.org/28/items/criaturas-incriveis-editado-1080-dublado-2/Criaturas%20incriveis%20editado%201080%20dublado%202.ia.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/MwbHni9.png" group-title="FILMES DOCUMENTÁRIO",Documentário - (Até o Último Homem)
 https://dn720300.ca.archive.org/0/items/documentario-hacksaw-ate-o-ultimo-homem/Document%C3%A1rio%20-%20Hacksaw%20Ridge%20%28At%C3%A9%20o%20%C3%9Altimo%20Homem%20-%20Document%C3%A1rio%29%20-%202016.mp4
 
@@ -955,14 +800,12 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34682248.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/1yp7cmo.png" group-title="FILMES INFANTIL",Um Panda em Apuros 2
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt9719256.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/05qUmXM.png" group-title="FILMES LANÇAMENTOS 2025",Caos e Destruição
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14123284.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/irycXor.png" group-title="FILMES TERROR",Fantasma no Cemitério
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7124092.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/LHfB1TN.png" group-title="FILMES LANÇAMENTOS 2025",O Macaco
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27714946.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/RFQsXlC.png" group-title="FILMES TERROR",Celebração Macabra
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23785128.mp4
@@ -973,8 +816,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28955168.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/XOgmhJY.png" group-title="FILMES FICÇÃO CIENTÍFICA",Better Man – A História de Robbie Williams
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14260836.mp4
 
-#EXTINF:-1 tvg-name="Novocaine: À Prova de Dor (2025) (2025)" tvg-logo="https://image.tmdb.org/t/p/w500/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg" group-title="FILMES LANÇAMENTOS 2025",Novocaine: À Prova de Dor (2025) (2025)
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29603959.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/eStWQyZ.png" group-title="FILMES AÇAO",Destruição Final: O Último Refúgio
 https://ia902303.us.archive.org/4/items/WIIMOVIES2/filmes%202%20-%20Copia%2F%285%29%20B.mp4
@@ -1024,8 +866,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28223926.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/PFBRc0c.png" group-title="FILMES AÇAO",Bagagem de Risco
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21382296.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/PA02THU.png" group-title="FILMES COMÉDIA",Um Fiasco de Férias
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34608980.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/4GcFTur.png" group-title="FILMES TERROR",Na Trilha do Perigo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12180508.mp4
@@ -1045,8 +886,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt18482470.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/D2S9c8r.png" group-title="FILMES TERROR",Sede de Sangue
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11584674.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/oZFWlj7.png" group-title="FILMES LANÇAMENTOS 2025",Nosso Segredinho
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt31022050.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/zBsRQDm.png" group-title="FILMES INFANTIL",Moana 2
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13622970.mp4
@@ -1081,17 +920,10 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6193408.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/vNwIvyg.png" group-title="FILMES INFANTIL",Larva Ilhados – O Filme
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12588448.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/zDjGLaP.png" group-title="FILMES COMÉDIA",Maggie Moore(s)
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14181816.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/9Nb56vd.png" group-title="FILMES AÇAO",Rebel Ridge
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11301886.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/f9s48n8.png" group-title="FILMES COMÉDIA",Assassino por Acaso
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20215968.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/GOZwkSe.png" group-title="FILMES COMÉDIA",Os Novatos
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21284218.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/7qW4a6o.png" group-title="FILMES AÇAO",A Liga
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12610390.mp4
@@ -1101,10 +933,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21301418.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/zhqkaSF.png" group-title="FILMES AÇAO",Deadpool & Wolverine
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6263850.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/5feHHom.png" group-title="FILMES COMÉDIA",Um Natal brilhante
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0790604.mp4
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/meo8sGg.png" group-title="FILMES DRAMA",Até o Último Homem
 https://dn721601.ca.archive.org/0/items/documentario-hacksaw-ridge-o-ultimo-2016/Document%C3%A1rio%20-%20Hacksaw%20Ridge%20%28At%C3%A9%20o%20%C3%9Altimo%20Homem%29%20-%202016.ia.mp4
@@ -1116,29 +944,6 @@ http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0104952.
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11771594.mp4
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/P6x0V5W.png" group-title="FILMES COMÉDIA",American Pie 8– O Reencontro
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1605630.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/UQh8ekT.png" group-title="FILMES COMÉDIA",American Pie 7- O Livro do Amor
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1407050.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/mt8WBRS.png" group-title="FILMES COMÉDIA",American Pie 6 – Caindo em Tentação
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0974959.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/AS3EJYA.png" group-title="FILMES COMÉDIA",American Pie 5 – O Último Stifler Virgem
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0808146.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/Gl9d0x5.png" group-title="FILMES COMÉDIA",American Pie 4 – Tocando a Maior Zona
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0436058.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/cZLEbdN.png" group-title="FILMES COMÉDIA",American Pie 3 - O Casamento
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0328828.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/VZSkpt2.png" group-title="FILMES COMÉDIA",American Pie 2 - A Segunda Vez é Ainda Melhor
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0252866.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/W52Sx2O.png" group-title="FILMES COMÉDIA",American Pie- A Primeira Vez é Inesquecível
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0163651.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/u8ar4eT.png" group-title="FILMES AÇAO",Não Tem Volta
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29639785.mp4
@@ -1158,12 +963,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28669770.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/a4iXhCc.png" group-title="FILMES TERROR",A Semente do Mal
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt26594993.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/JlJ6ELD.png" group-title="FILMES COMÉDIA",Pra Lá de Bagdá 
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0120693.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/tWsrkSU.png" group-title="FILMES COMÉDIA",Pra Lá de Bagdá 2
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12631486.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/Y0dLitV.png" group-title="FILMES CLASSICO",Amor na Medida Certa
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0083099.mp4
 
@@ -1173,8 +972,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23456602.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/TAM51w4.png" group-title="FILMES THRILLER/CRIME",Medidas Extremas
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12330400.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/wQZ1jBV.png" group-title="FILMES COMÉDIA",Zoolander
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0196229.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/G46YWOo.png" group-title="FILMES AÇAO",Velozes & Furiosos 10
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5433140.mp4
@@ -1193,8 +991,7 @@ https://ia801502.us.archive.org/35/items/velozes-e-furiosos-1/Velozes%20e%20furi
 
 
 
-#EXTINF:-1  tvg-logo="https://imgur.com/Nx2oUvB.png" group-title="FILMES COMÉDIA",Meu Vizinho Mafioso
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD5/tt0190138.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/d3Tx3XV.png" group-title="FILMES TERROR",O Homem nas Trevas
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt4160708.mp4
@@ -1260,11 +1057,9 @@ http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0865293.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/fcLgrHc.png" group-title="FILMES INFANTIL",Um Gato de Sorte
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7959138.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/7A17RdY.png" group-title="FILMES LANÇAMENTOS 2025",Bad Boys: Até o Fim
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt4919268.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/qF39XU8.png" group-title="FILMES COMÉDIA",Swingers – Troca de Casais
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10297320.mp4
+
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/CIb5SU5.png" group-title="FILMES ROMANCE",Relacionamento Aberto
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13868030.mp4
@@ -1309,8 +1104,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8521778.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/Jq0KeHi.png" group-title="FILMES ROMANCE",A Arte d Amar
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28355490.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/xpKEmyQ.png" group-title="FILMES COMÉDIA", Assassinato de Elite 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt27028399.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/D7dL4HM.png" group-title="FILMES AÇAO",Madame Teia
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11057302.mp4
@@ -1318,8 +1112,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11057302.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/WR4C7bc.png" group-title="FILMES INFANTIL",A Lenda do Cavaleiro Sem Cabeça
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0051850.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/9ZS9gji.png" group-title="FILMES COMÉDIA",Ricky Stanicky
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1660648.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/Ocaobfo.png" group-title="FILMES AÇAO", Donzela 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13452446.mp4
@@ -1330,14 +1123,8 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt7979142.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/bQMrZWw.png" group-title="FILMES AÇAO",CHECKMATE
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt30850554.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/xjXjLDj.png" group-title="FILMES COMÉDIA",A Guerra do Hambúrguer 
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0119215.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/im0CMED.png" group-title="FILMES COMÉDIA",A Guerra do Hambúrguer 2
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt25289836.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/D5TZ9Bp.png" group-title="FILMES LANÇAMENTOS 2025",Beekeeper Rede d Vingança 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15314262.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/yByyOvi.png" group-title="FILMES DRAMA",O Vale do amor
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13496136.mp4
@@ -1348,9 +1135,6 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2316548.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/OWJvQwO.png" group-title="FILMES DRAMA",Marcas da Vida
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt20864704.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/r9Y3UXG.png" group-title="FILMES COMÉDIA",Leve-me
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6598626.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/2qaftHq.png" group-title="FILMES ROMANCE", 2022 Através da minha Janela
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14463484.mp4
 
@@ -1360,42 +1144,23 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21245882.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/HjYeMjy.png" group-title="FILMES ROMANCE",2024Através da minha Janela 3: Olho nos olhos 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt28105944.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/TKuM0YI.png" group-title="FILMES COMÉDIA",40 dias e 40 noites
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0243736.mp4
-
-
-#EXTINF:-1  tvg-logo="https://imgur.com/n66xA6f.png" group-title="FILMES COMÉDIA",Acampamento do pecado
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/nsbkk08.png" group-title="FILMES ROMANCE",Ligados pelo Amor
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt2205697.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/XR104kW.png" group-title="FILMES COMÉDIA",Volta pra Mim
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6462958.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/38OjL5u.png" group-title="FILMES DRAMA",Os Reis de Dogtown
 http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt0355702.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/J1mmOVc.png" group-title="FILMES COMÉDIA",Separados pelo Casamento 
-http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0452594.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/q2lVwFF.png" group-title="FILMES ROMANCE", Fazendo meu Filme
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15386618.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/vkv8WNQ.png" group-title="FILMES COMÉDIA",Mamonas Assassinas O Filme
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29713426.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/ScZGXUh.png" group-title="FILMES DRAMA",O Leitor
 http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt0976051.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/BPaUnal.png" group-title="FILMES AÇAO",Em Ruínas 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt29722855.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/rfHdSP7.png" group-title="FILMES COMÉDIA",Um Verão só para Nós 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt17348934.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/BdFJSnT.png" group-title="FILMES COMÉDIA",Meu Cunhado é um Vampiro 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt23744022.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/RSk55ef.png" group-title="FILMES AÇAO",A Última Esperança Soviética 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt17074644.mp4
@@ -1415,9 +1180,6 @@ https://ia902305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Noitarios%20D
 #EXTINF:-1  tvg-logo="https://imgur.com/JVgKDE5.png" group-title="FILMES TERROR",Fale Comigo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt10638522.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/XPGT2Hs.png" group-title="FILMES COMÉDIA",Álibi.com
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5657028.mp4
-
 #EXTINF:-1  tvg-logo="https://imgur.com/Cr4DEzw.png" group-title="FILMES TERROR",Ritual Maldito 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12980286.mp4
 
@@ -1430,21 +1192,11 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt6119856.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/Rh4wfoJ.png" group-title="FILMES TERROR",Feriado Sangrento 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1448754.mp4
 
-
 #EXTINF:-1  tvg-logo="https://imgur.com/t3CFLfy.png" group-title="FILMES FICÇÃO CIENTÍFICA",Últimos Sobreviventes 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13889602.mp4
 
 #EXTINF:-1  tvg-logo="https://imgur.com/JwFHEXn.png" group-title="FILMES AÇAO",O matador de aluguel 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt8378322.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/7OuJllQ.png" group-title="FILMES COMÉDIA", Despedida de Solteira 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5831402.mp4
-
-#EXTINF:-1  tvg-logo="https://imgur.com/NZl3SEd.png" group-title="FILMES ",
-
-
-
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/Lg3fYED.png" group-title="FILMES AÇAO",Os Mercenários 4
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3291150.mp4
@@ -1455,8 +1207,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt3442126.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/BgmDrsh.png" group-title="FILMES AÇAO",A Cor da Vingança 
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt2793072.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/5igr4PY.png" group-title="FILMES COMÉDIA",Tudo Sob Descontrole 
-http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt15484716.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/sGZFP91.png" group-title="FILMES AÇAO",Perseguição em Malta
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13515076.mp4
@@ -1467,14 +1218,7 @@ http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt14486678.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/IIM9DMC.png" group-title="FILMES ROMANCE",Tática de Amor 2
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt21308698.mp4
 
-#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES COMÉDIA",Os Gatões Uma Nova Balada 
-http://fhd1.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD3/tt0377818.mp4
 
-#EXTINF:-1 tvg-name="Mais um Besteirol ao Extremo"tvg-logo="https://imgur.com/lCuUgoq.png" group-title="FILMES COMÉDIA",Mais um Besteirol ao Extremo
-http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD10/tt0806147.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHWwVRJ.jpeg" group-title="FILMES COMÉDIA",O ULTIMO AMERICANO VIRGEM 
-https://www.googleapis.com/drive/v3/files/1Gz48swVx2K62jvuXcNIgQI9NAMl8zEox?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exzNH7g.jpeg" group-title="FILMES CLASSICO",CARAVANA DA CORAGEM
 https://www.googleapis.com/drive/v3/files/1dCQifv89aajvbJxnsx8SuNBHIpaJgQek?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1503,9 +1247,6 @@ https://www.googleapis.com/drive/v3/files/0B_h5c5Md422hYnRsMDB3bXBsN3M?alt=media
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7JG8Qu.jpeg" group-title="FILMES AVENTURA",O Senhor dos Anéis - As Duas Torres
 https://www.googleapis.com/drive/v3/files/1I3HOyzouUFnJkdX1jAnchCoMZEM7YBlKVQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZhc6Qf.jpeg" group-title="FILMES COMÉDIA",Os Estagiários (2013)
-https://www.googleapis.com/drive/v3/files/0BxLx_FbsboyuWU02ZmZkWWh5Q0E?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nxI4Md4.jpeg" group-title="FILMES CLASSICO",O Planeta Dos Macacos (1968)
 https://www.googleapis.com/drive/v3/files/196l2G54Ekbfc1qK3mOoBlThopHoPycMX?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
@@ -1533,11 +1274,6 @@ https://www.googleapis.com/drive/v3/files/19quH_KovFfiVue3K6beW_xJ1afC1gSja?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vmMc5h0.jpeg" group-title="FILMES ROMANCE",Antes do Amanhecer (1995)
 https://www.googleapis.com/drive/v3/files/181POKU0VY7Q7LcWWWR-dOx9XM0H3JA1a?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pl5DJPG.jpeg" group-title="FILMES COMÉDIA",Doze é Demais
-https://www.googleapis.com/drive/v3/files/1m9zvmxOBGQYc7rnfbnfv1ONiRmN9KLJa?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qlnGfTX.jpeg" group-title="FILMES COMÉDIA",Doze é Demais 2
-https://www.googleapis.com/drive/v3/files/1rwNR1FGvwtZZQgS_6FsZsRSUXMolklm_?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r4XiTDP.jpeg" group-title="FILMES TERROR",Jogo perigoso
 https://www.googleapis.com/drive/v3/files/1YdAfHJh1utOGvtpUXHIUZiBas2dkWa2B?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1599,6 +1335,7 @@ https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Reminiscence2
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Alk3upf.jpeg" group-title="FILMES FICÇÃO CIENTÍFICA",À Beira da Extinção
 https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Risen2021.mp4
+
 #EXTINF:-1 tvg-logo="https://imgur.com/yXYlYl0.jpeg" group-title="FILMES AÇAO",G.I. Joe Origens: Snake Eyes
 https://ia802305.us.archive.org/34/items/velozes-e-furiosos-9-2021/Snake%20eyes%20gi%20joe2021.mp4
 
@@ -1620,8 +1357,6 @@ https://www.googleapis.com/drive/v3/files/124M5ds2yHIq8xcyLAEZhiqCz75f9aLgp?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VTGxonm.jpeg" group-title="FILMES ROMANCE",Você nem imagina
 https://www.googleapis.com/drive/v3/files/1VczdIkHDLqkkqDiCKk-_LIP4_f9zaGFv?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8i5wFN1.jpeg" group-title="FILMES COMÉDIA",Cada Um Tem a Irmã Gêmea Que Merece
-https://www.googleapis.com/drive/v3/files/1-FGdEGQFGGccgmBZYtvxp9Qb-tFqj4E8?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CaNhk4o.jpeg" group-title="FILMES ROMANCE", Closer - Perto demais - Legendado
 https://www.googleapis.com/drive/v3/files/13qSyFakvYVX4B2F5icVeyOcpTvPvVNaS?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1638,11 +1373,7 @@ https://www.googleapis.com/drive/v3/files/1TO6jGZU8UqGjS2mJuL1gkSNoHDqnsqvs?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMpY7uF.jpeg" group-title="FILMES ROMANCE",P.S. Eu Te Amo
 https://www.googleapis.com/drive/v3/files/1uUzlq3rlTBrmK9L1VgBiLD0NROTEL5MU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YuM80kJ.jpeg" group-title="FILMES COMÉDIA",Par perfeito
-https://www.googleapis.com/drive/v3/files/1OjlaP1AzngmeP9MXU2OwuHMih5XCLwlQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1LvHQD.jpeg" group-title="FILMES COMÉDIA",Para Sempre
-https://www.googleapis.com/drive/v3/files/1dyVE5ELOHcpWx170G4WxoaifBHZhlldw?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGoe6CX.jpeg" group-title="FILMES ROMANCE",Para Todos Os Garotos Que Já Amei
 https://www.googleapis.com/drive/v3/files/1Juhjp5Us4482ZmdobOZsTa0nIhu2Yft3?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1659,9 +1390,6 @@ https://www.googleapis.com/drive/v3/files/1VPe0781XtL3l-WVqe326foHSrUlHCAqc?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZikI0Tp.jpeg" group-title="FILMES AVENTURA",Pica-Pau O Filme
 https://www.googleapis.com/drive/v3/files/1xLWa9Kn9IbcM5X5R9aV7G4BdTBBTFwIr?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/STH7j5L.jpeg" group-title="FILMES COMÉDIA",Operação cupido
-https://www.googleapis.com/drive/v3/files/1lJbfDhMjldS2rv1uFMwiRuM3And75eeE?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZlZqhn.jpeg" group-title="FILMES ROMANCE",Orgulho e Preconceito
 https://www.googleapis.com/drive/v3/files/1sd9uWwqWmhS0h8Exo6eMsaH_eBRCRbUacw?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
@@ -1671,20 +1399,10 @@ https://www.googleapis.com/drive/v3/files/19zLLn0cve0tForobspa02eEsPecG3pqK?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4LsMx5M.jpeg" group-title="FILMES AÇAO",Jumanji - Bem - vindo a selva
 https://www.googleapis.com/drive/v3/files/1j5puYj2JzBgDcH0QKIR__UY1o1Zvs022?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmxJfcx.jpeg" group-title="FILMES COMÉDIA",Juntos e misturados
-https://www.googleapis.com/drive/v3/files/1VzFddS-C9gB4_fiqIPZu83focSTajdpa?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Z9krrZ.jpeg" group-title="FILMES INFANTIL",Encantado
 https://www.googleapis.com/drive/v3/files/1Azm5JubxYJsKzGNRbqEn_1lF_K4EQGZ-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hnw8sN9.jpeg" group-title="FILMES COMÉDIA",Mistério no mediterrâneo
-https://www.googleapis.com/drive/v3/files/1J4JMLzT6qSgYl1nX75RIEPc4DVc7G9FS?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VLbu10K.jpeg" group-title="FILMES COMÉDIA", Monte Carlo
-https://www.googleapis.com/drive/v3/files/1GmN34mKHGd5rp82cX3LVv4mAzz1XoVbB?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/llq31iR.jpeg" group-title="FILMES COMÉDIA",Mulheres ao ataque
-https://www.googleapis.com/drive/v3/files/1CGgiWpDopB0hB_9u87avshjAhwUdXOJb?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1em7PQ.jpeg" group-title="FILMES AVENTURA",No coração do mar
 https://www.googleapis.com/drive/v3/files/1USqKAwKU6-JRGLVUDv2gDilJPKvRRk5F?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1700,14 +1418,13 @@ https://www.googleapis.com/drive/v3/files/1rLbA75oGAShbFJkE-Mav9eypMR07bYT1?alt=
 
 #EXTINF:-1 tvg-logo="https://imgur.com/X7YG1z7.png" group-title="FILMES DOCUMENTÁRIO",Guerras Mundiais - Primeira Guerra Mundial
 https://ia802808.us.archive.org/24/items/guerrasmundiais1guerra/EPIS%C3%93DIO%20COMPLETO%20%20GUERRAS%20MUNDIAIS%20%20I%20GUERRA%20MUNDIAL%20%20HISTORY.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2wv2MeE.jpeg" group-title="FILMES DOCUMENTÁRIO",Democracia em vertigem
 https://www.googleapis.com/drive/v3/files/1rl11Y3vS_XJso21coIp56IN01exFX-9J?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfa20Ao.jpeg" group-title="FILMES DRAMA",Ilha da aventura
 https://www.googleapis.com/drive/v3/files/1iX-PGlLzHwo2VcglZPQb1Facq0E1IiZw?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m5QEsqv.jpeg" group-title="FILMES COMÉDIA",Internet - O filme
-https://www.googleapis.com/drive/v3/files/1gOtQvSDZF4LUJ2zMWh2JnlqWLjXizbVj?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwe0KHl.jpeg" group-title="FILMES DRAMA",Intocáveis
 https://www.googleapis.com/drive/v3/files/15VhQeiKXRvl4PLNWBDnamecDck_LxJps?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1718,17 +1435,11 @@ https://www.googleapis.com/drive/v3/files/1NVAm9qplZ6frGCfb-rO-Y5lov_ztZhJE?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PuFdlnB.jpeg" group-title="FILMES FICÇÃO CIENTÍFICA",Bacurau
 https://www.googleapis.com/drive/v3/files/1TxUdkPMH_4y-4rwqKchJ9IDGf98Rmb9e?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lahv6hS.jpeg" group-title="FILMES COMÉDIA",Belas e mimadas
-https://www.googleapis.com/drive/v3/files/1gU9OhQ2UepInH3S0ZrFpyVAxYQj8KrOo?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hUHrFUx.jpeg" group-title="FILMES DRAMA",Beleza oculta
 https://www.googleapis.com/drive/v3/files/1a4o5nOSOgtVip1rmoi3gbOf82NsnrmhO?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/288THib.jpeg" group-title="FILMES COMÉDIA",D.U.F.F. Você Conhece Tem Ou É
-https://www.googleapis.com/drive/v3/files/15z9GTytYergM86BE6AqEKVgWMA30E1yg?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx77Tqr.jpeg" group-title="FILMES COMÉDIA",De Repente 30
-https://www.googleapis.com/drive/v3/files/1D1SGppfzDKQvDKSfwa8FbWEREf1CD6C3?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OMjUgF7.jpeg" group-title="FILMES AÇAO",As Panteras
 https://www.googleapis.com/drive/v3/files/101Dn13FS0PJ93wkPDfpfSbz-WtRsLDbi?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1739,14 +1450,6 @@ https://www.googleapis.com/drive/v3/files/1LNZuQzTj5lciJRdOVIqT0dH-JBmK6VrP?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABE4W0v.png" group-title="FILMES AÇAO",As Panteras 2020
 https://www.googleapis.com/drive/v3/files/1o2Oe-v-PEC1It1v9gWgvI3w-F1H-h7Ne?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gRFnS35.jpeg" group-title="FILMES COMÉDIA",A Escolha Perfeita
-https://www.googleapis.com/drive/v3/files/1NM7wGTDzBw04Y-rYwvmIbznzIdiCsjPU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O39ilTb.jpeg" group-title="FILMES COMÉDIA",A Escolha Perfeita 2
-https://www.googleapis.com/drive/v3/files/1XHguM4YEEWYMdYtEWhhXIW075KFVcFN3?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDn667q.jpeg" group-title="FILMES COMÉDIA",A Escolha Perfeita 3
-https://www.googleapis.com/drive/v3/files/1-iEmX4hFWS_6LyB4unp4tiMMuySOwVEt?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lO9ezqs.jpeg" group-title="FILMES AVENTURA",as crônicas de nárnia o leão a feiticeira e o guarda-roupa
 https://www.googleapis.com/drive/v3/files/1yfawrjalXd6g7OPg258P_SfYHSlCYtCm?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1772,32 +1475,20 @@ https://www.googleapis.com/drive/v3/files/1146J0pg5alhED9xfYS4g1vynWA_VMt6E?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPRst9w.jpeg" group-title="FILMES ROMANCE",10 Coisas Que Eu Odeio Em Você
 https://www.googleapis.com/drive/v3/files/1abkKtm9MvEloFyU89MoTbNxZ6C9I2xfk?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SN5mGuq.jpeg" group-title="FILMES COMÉDIA",17 Outra Vez
-https://www.googleapis.com/drive/v3/files/1HRcxSslGLyX66sEOTHkZ3w9EznexNR2f?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WjGJ6ib.jpeg" group-title="FILMES DRAMA",12 Anos De Escravidão
 https://www.googleapis.com/drive/v3/files/14k0g4SRVxae_78mIJInHzetV0DbZkjhb?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Q6JIBZ.jpeg" group-title="FILMES COMÉDIA",As branquelas
-https://www.googleapis.com/drive/v3/files/1avm4yXd2tg1lZKy00yZRknboNv2Dxqpi?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40154Sp.jpeg" group-title="FILMES AVENTURA",As crônicas de Spiderwick
 https://www.googleapis.com/drive/v3/files/1bPmyAIVRpFdxS3hoKa7K3Tt3xHLknc1P?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yeNbqoJ.jpeg" group-title="FILMES COMÉDIA",As patricinhas de Beverly hills
-https://www.googleapis.com/drive/v3/files/14ze444H1LYTK2Ke1sUdriALI4WTika7G?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://imgur.com/S1anu0V.jpeg" group-title="FILMES COMÉDIA",As vantagens de ser invisível
-https://www.googleapis.com/drive/v3/files/12cnRyPwcXDTbbU26MF7wXhz9cnotdEoX?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GYZHYjd.jpeg" group-title="FILMES COMÉDIA",A mentira
-https://www.googleapis.com/drive/v3/files/1fCLpDLk_U1_OFzGcYxR_UZMtAUoS4CZJ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mplEw16.jpeg" group-title="FILMES DRAMA",Histórias cruzadas
 https://www.googleapis.com/drive/v3/files/13Jp8z18V9CrnX3qFqvd5UQ2EknrFb9YD?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQGB6ck.jpeg" group-title="FILMES COMÉDIA",A favorita
-https://www.googleapis.com/drive/v3/files/11-AqvZe_qmYl9DJ-g6gQ9JFhBRHaDe7P?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vwll3ZW.jpeg" group-title="FILMES ROMANCE",La la land - Legendado
 https://www.googleapis.com/drive/v3/files/1-wgQ9m6zIHO5M1g4oq42r5zM7xp3Y0VN?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1835,8 +1526,7 @@ https://www.googleapis.com/drive/v3/files/1uXYsYvMNF0mnxRAqqWRBOX7DNl1jmITA?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clqp6ou.jpeg" group-title="FILMES AVENTURA",A bússola de ouro
 https://www.googleapis.com/drive/v3/files/1iLvpiroXrNl1E39mu-MEEoicpcZmJTzx?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XmtPCcO.jpeg" group-title="FILMES COMÉDIA",A Família Buscapé
-https://www.googleapis.com/drive/v3/files/1ZpWi7tTkJmhYP6ylgGVMozpNh56z2GYq?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wD7sTR.jpeg" group-title="FILMES TERROR",Helter Skelter
 https://www.googleapis.com/drive/v3/files/1BDNv0Vsbd7gWVQbrhC_rW7xQtR_Hrny9?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1847,8 +1537,7 @@ https://www.googleapis.com/drive/v3/files/1WISrMP6Vf9gKgu1fB6HRyi0CryoojZZt?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbGtzVt.jpeg" group-title="FILMES THRILLER/CRIME",Zodíaco (2007)
 https://www.googleapis.com/drive/v3/files/1i_1jvPZxcgAxBxiyfOzq3Z1jH1BkDvtp?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62zQ5bw.jpeg" group-title="FILMES COMÉDIA",Era uma vez em Hollywood
-https://www.googleapis.com/drive/v3/files/1VUGd3ZbWTlfMR94hgflhDN93kKTSqAX8?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EBZwPXl.jpeg" group-title="FILMES AÇAO",Kill Bill vol.1
 https://www.googleapis.com/drive/v3/files/1Pb8e4eeEnA5NPjqoFRH6Bm-xODFtMIF4?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1856,8 +1545,7 @@ https://www.googleapis.com/drive/v3/files/1Pb8e4eeEnA5NPjqoFRH6Bm-xODFtMIF4?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cljg9Dh.jpeg" group-title="FILMES INFANTIL",Zootopia
 https://www.googleapis.com/drive/v3/files/1cpHkt1yJx9CK3zW4OVhI0WkrqAb-cNXB?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cun8RxR.jpeg" group-title="FILMES COMÉDIA",Scott pilgrim contra o mundo
-https://www.googleapis.com/drive/v3/files/1R6Jlfl5IpTGIXY1PhORhWS546gwFFVoD?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drFVIpa.jpeg" group-title="FILMES INFANTIL",Coraline
 https://www.googleapis.com/drive/v3/files/11yv8AO-Sz_t7qhmtKZAcDNTpDEnnqIRd?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1868,8 +1556,6 @@ https://www.googleapis.com/drive/v3/files/1R0tzYBUfmtuFdTooGK9iN3YMhln95xIr?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZbKSbZb.png" group-title="FILMES TERROR",Órfã 2:A origem
 https://www.googleapis.com/drive/v3/files/1aptAszAbA_D5UxhfCc_iBtRIf_uTV3j4?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/97iQR99.jpeg" group-title="FILMES COMÉDIA",Gatinhas e Gatões (1984)
-https://www.googleapis.com/drive/v3/files/1vDVorSRIwb5eKbVpaMK75CjuqtvqGSkH?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnT0B8x.jpeg" group-title="FILMES AVENTURA",Peter Pan (2003)
 https://www.googleapis.com/drive/v3/files/1jPY1gv32j4pXszO-iUAu-QQgTTgK8eRT?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1886,8 +1572,6 @@ https://www.googleapis.com/drive/v3/files/1LcxihMFebWDYCkO1Rp9B5JD42dH2pOtZ?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E9eIiiC.jpeg" group-title="FILMES ROMANCE",Me chame pelo seu nome
 https://www.googleapis.com/drive/v3/files/1L2uD4m5JZ0AI63Cu9xebi5FjIec2IKmg?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39VZCwn.jpeg" group-title="FILMES COMÉDIA",Parasita
-https://www.googleapis.com/drive/v3/files/1sLGOcMJ583vLoJI1tN7v_YO07m0-6Rlq?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DMy7gxu.jpeg" group-title="FILMES ROMANCE",Ela é o cara
 https://www.googleapis.com/drive/v3/files/1UIxJ9umux9FjKB42vL88l_hzGfxoWrGR?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -1919,8 +1603,6 @@ https://www.googleapis.com/drive/v3/files/1w6YIZLAL6LiJjkAuzp3RkIKFhuZd_3I5?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hYrjJBH.jpeg" group-title="FILMES DRAMA",Diário de um adolescente (1995)
 https://www.googleapis.com/drive/v3/files/1jpp8LEKJQt7nDEUey-M-nsrBJ-wrHnF1?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2qeKUY.jpeg" group-title="FILMES COMÉDIA",Ele É Demais
-https://www.googleapis.com/drive/v3/files/15gxHVt6cniJ_h7-ni5dfocntDbqIToiY?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bXRvwUZ.jpeg" group-title="FILMES ROMANCE",Carol 2015
 https://www.googleapis.com/drive/v3/files/1Pn27L8L2ZZpaJSJpMYHJ5uZYFmzMSx6h?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2003,8 +1685,6 @@ https://ia800708.us.archive.org/11/items/youtube-4RRjNUCpXkA/4RRjNUCpXkA.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xUpy9pG.jpeg" group-title="FILMES CLASSICO",Bettlejuice (1988)
 https://www.googleapis.com/drive/v3/files/1bhgjtt5qS6-souHvGTfs0fYspD0Hm-dh?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mWCac7B.jpeg" group-title="FILMES COMÉDIA",Família Addams (1991)
-https://www.googleapis.com/drive/v3/files/1EWOdJD1t5YTxgAgOPoaYbmC4Sb0aU1C1?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3oXO5L.jpeg" group-title="FILMES ROMANCE",O fabuloso destino de Amélie Poulain
 https://www.googleapis.com/drive/v3/files/1OnUl6ZSbxa6AkircAX1OscfwElMwnOdV?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2026,9 +1706,6 @@ https://www.googleapis.com/drive/v3/files/1aLsS3i4MHxV3jvkCgLr2bHDB03RRYoFC?alt=
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4KtSQkP.png" group-title="FILMES INFANTIL",Túmulo Dos Vagalumes
 https://ia800504.us.archive.org/34/items/o-tumulo-dos-vagalumes-1988-dublado/O%20T%C3%BAmulo%20dos%20Vagalumes%20%281988%29%20-%20Dublado.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IT55N.png" group-title="FILMES COMÉDIA",Meninas Malvadas - Legendado
-https://www.googleapis.com/drive/v3/files/1-68sd7TyLVURg1j7PrukddwSon794SAT?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VKHZ4Yw.png" group-title="FILMES TERROR",Midsommar
 https://www.googleapis.com/drive/v3/files/1gJTvvjTc8W0gLQm7l7uz88mq-Gm-hs-g?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2064,7 +1741,7 @@ https://www.googleapis.com/drive/v3/files/1MHEBPmGbZugA4PL7echzlgwhnvQvIxXG?alt=
 https://www.googleapis.com/drive/v3/files/1PYODX6oIt4L21uIMVMHOQsI7Cziof9BU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/PtFViIL.jpeg" group-title="FILMES AÇAO",O Ataque dos Vermes Malditos 7: Ilha dos Shriekers
+#EXTINF:-1 tvg-logo="https://imgur.com/Uowdisk.png" group-title="FILMES AÇAO",O Ataque dos Vermes Malditos 7: Ilha dos Shriekers
 https://ia802303.us.archive.org/4/items/WIIMOVIES2/filmes%202%20-%20Copia%2F%2817%29%20B.mp4
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PtFViIL.jpeg" group-title="FILMES AÇAO",Mulher-Maravilha
@@ -2088,8 +1765,7 @@ https://www.googleapis.com/drive/v3/files/1YuBIr-dO_VfYWISYTioYOPpeeAt7Vd1A?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LgfLGf6.jpeg" group-title="FILMES FICÇÃO CIENTÍFICA",Avatar 2009
 https://www.googleapis.com/drive/v3/files/1tw6k01ro44efPW1wM9s0Y1Yg8UdSpdhT?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qWmlKrf.jpeg" group-title="FILMES COMÉDIA",Cruella
-https://www.googleapis.com/drive/v3/files/1dT4qashvEyARWjN8aK9vXl_9itdtFhb2?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c0cxQxn.jpeg" group-title="FILMES INFANTIL",Malévola
 https://www.googleapis.com/drive/v3/files/14Qn-tIaZZ5fsao2KdgFWM32H9iotDUyb?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2116,8 +1792,6 @@ https://www.googleapis.com/drive/v3/files/11pK87WWa_d_JG2FJsVvWdn2qzuBItzDW?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BNAoXtm.jpeg" group-title="FILMES TERROR",A Mão que Balança o Berço (1992)
 https://www.googleapis.com/drive/v3/files/1-vm4txYpKI8ih5xLcJr3iabrFzei1wWF?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gKjz7D.jpeg" group-title="FILMES COMÉDIA",Presente de grego
-https://www.googleapis.com/drive/v3/files/12DQnwxCdZ9kqgOeaJRCJBMVP-5xyOPVH?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VIv29jD.jpeg" group-title="FILMES DRAMA",Sully O Herói do Rio Hudson
 https://www.googleapis.com/drive/v3/files/1fU4oP12wT_YsPSahhCmla1-ddRi36sqo?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2128,8 +1802,6 @@ https://www.googleapis.com/drive/v3/files/1Arca7EmjZux8NTWpEi-vr6b2z9rCPuR3?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFB0B9G.jpeg" group-title="FILMES CLASSICO",A Lenda de Billie Jean
 https://www.googleapis.com/drive/v3/files/1ggQ4IT0vJCPtfnrx7EazdkIHgMY1hKFd?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ipxD2qz.jpeg" group-title="FILMES COMÉDIA",Procura-se Susan Desesperadamente
-https://www.googleapis.com/drive/v3/files/1ZkaZTxDbR7fwXbGTewyNLwoV5aMNqrN3?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/41KpVtr.jpeg" group-title="FILMES AÇAO",Subway
 https://www.googleapis.com/drive/v3/files/1gGMVr4ZKX9loAveJ48mCWccIqO5T1iGQ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2209,11 +1881,7 @@ https://www.googleapis.com/drive/v3/files/15vn-vsrLDTk5ssVY0MJ76js73ODrKfyX?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvIbXMb.jpeg" group-title="FILMES FICÇÃO CIENTÍFICA",O quinto elemento
 https://www.googleapis.com/drive/v3/files/14pSIm8vYGOsYjHoajNzeTENRJ8SkNyw8?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uab3BI3.jpeg" group-title="FILMES COMÉDIA",O rei das manhãs
-https://www.googleapis.com/drive/v3/files/1xIcTiiAsnCjYGZJh3femDQh4w02j3Rf_?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h36BiCy.jpeg" group-title="FILMES COMÉDIA",Estômago
-https://www.googleapis.com/drive/v3/files/1vIM19X_cgZCGBE8jZu2eDUKQk7fO3rcw?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/otSa5Ua.jpeg" group-title="FILMES AVENTURA",Joana D'Arc
 https://www.googleapis.com/drive/v3/files/1LDrqDVAIm3t78KSs7VC9D__IidYpklcU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2266,14 +1934,6 @@ https://www.googleapis.com/drive/v3/files/1hpvwxQPYuqL2cGtUGwQfMTac_Hhq_wfW?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QDohrh4.jpeg" group-title="FILMES AÇAO",Anjos da noite - A Rebelião
 https://www.googleapis.com/drive/v3/files/1mndP4HmPJetdUHhySmcSaZzKZPB_MSwN?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNEETmo.jpeg" group-title="FILMES COMÉDIA",Mamma Mia!
-https://www.googleapis.com/drive/v3/files/150VYBty0JYhqHfXPMRMfy8t2eX2xb5_T?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MU5bEaA.jpeg" group-title="FILMES COMÉDIA",Mamma Mia! 2
-https://www.googleapis.com/drive/v3/files/1uLPB2cQw9SSj-Fc-uiaIK3eUNojL68uD?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HdTrUd5.jpeg" group-title="FILMES COMÉDIA",Prenda-me se for capaz
-https://www.googleapis.com/drive/v3/files/1x6KSaOgzbuPnKSdZdiwVj8IpDQJtEFLx?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AB43GR4.jpeg" group-title="FILMES THRILLER/CRIME",O talentoso Ripley (1999)
 https://www.googleapis.com/drive/v3/files/14dfjXOiYAMQ-6GfSsRcgAIfXxi-l1rPa?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2398,8 +2058,7 @@ https://www.googleapis.com/drive/v3/files/1CwbuZUPhk_U1DG7H_xL_eY7E4Svhyam9?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lACVLGZ.jpeg" group-title="FILMES DRAMA",O diabo veste prada
 https://www.googleapis.com/drive/v3/files/1nv3ggIR2nKDDF84drNTzUBMNGDurkbOZ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezhiCKd.jpeg" group-title="FILMES COMÉDIA",um cadáver para sobreviver 2016
-https://www.googleapis.com/drive/v3/files/19A6poMO1bySsicM2gJK2LT5kx3oGQhWd?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3PtKLQX.jpeg" group-title="FILMES CLASSICO",taxi driver
 https://www.googleapis.com/drive/v3/files/1OfpJazju_LBRox3azsoa9xusWWtH3pki?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
@@ -2407,8 +2066,7 @@ https://www.googleapis.com/drive/v3/files/1OfpJazju_LBRox3azsoa9xusWWtH3pki?alt=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xY70QlN.jpeg" group-title="FILMES FICÇÃO CIENTÍFICA",watchmen
 https://www.googleapis.com/drive/v3/files/19A6poMO1bySsicM2gJK2LT5kx3oGQhWd?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2jUHX0.jpeg" group-title="FILMES COMÉDIA",Sexo Musica e Amor
-https://www.googleapis.com/drive/v3/files/1OrDDdP8TuXTCNlIX3FQomn-SXU8zMBgX?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/skfsjM9.png" group-title="FILMES INFANTIL",Monster High: Uma Fusão Muito Louca
 https://ia801307.us.archive.org/17/items/copia-de-monster-high-uma-fusao-muito-louca-drivefilmesz/C%C3%B3pia%20de%20Monster%20High%20-%20Uma%20Fus%C3%A3o%20Muito%20Louca%20%40drivefilmesz%20.mp4
@@ -2419,11 +2077,6 @@ https://dn721905.ca.archive.org/0/items/o-fantastico-sr.-raposo-filmesnodrive-3_
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cmrRpUp.png" group-title="FILMES INFANTIL",Monster High Boo York, Boo York Um Musical De Arrepiar
 https://dn721605.ca.archive.org/0/items/copia-de-monster-high-boo-york-boo-york-um-musical-de-arrepiar-drivefilmesz/C%C3%B3pia%20de%20Monster%20High%20-%20Boo%20York%2C%20Boo%20York_%20Um%20Musical%20De%20Arrepiar%20%40drivefilmesz%20.mp4
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5RMDcy.jpeg" group-title="FILMES INFANTIL",A Menina e o Leão
 https://www.googleapis.com/drive/v3/files/112W2RjsBYCRlDl-aBwM23e7tYBl9Phiz?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
@@ -2451,8 +2104,6 @@ https://cdn-vod-1.nxplay.com.br/hls/movies/48a69a07-bb10-47ce-a82f-2dcb50cf3f95/
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/67182880393a5_a5b0f6377566809db3148f0fa00c7442.jpg"group-title="FILMES THRILLER/CRIME",CÃES DE ALUGUEL
 https://nxtv-vod.b-cdn.net/hls/movies/04446346-5589-44eb-af4f-a57ab6adb2d3/media_0.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/661933fd48d11_e4959fec32d8fb6e83009a3f5b21d591.jpg"group-title="FILMES COMÉDIA",COMO CASAR COM UM MILIONÁRIO
-https://cdn-vod-1.nxplay.com.br/hls/movies/66cc366b-65b2-4684-ac85-25cf7890e457/media_2.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/66835a1556e5d_ebc8f87542f1134603335ff0ac5c5592.jpg"group-title="FILMES DRAMA",DE AGORA EM DIANTE
 https://cdn-vod-1.nxplay.com.br/hls/movies/9ead17b6-cdb0-40da-a1d5-29e76d810000/media_2.mp4/index-v1-a1.m3u8
@@ -2466,8 +2117,7 @@ https://nxtv-vod.b-cdn.net/hls/movies/369edd49-2bca-4b15-987a-39c8f2571ef4/media
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/66216c25ca663_b59b7567c851c88af852951582034cbd.jpg"group-title="FILMES AÇAO",INFILTRADO
 https://cdn-vod-1.nxplay.com.br/hls/movies/0be724ca-346f-462c-baf9-5d5aba18c41e/media_2.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/668367eae1abe_8530df7d01211d2a242ef022cf7a990a.png"group-title="FILMES COMÉDIA",LOUCO POR ELAS
-https://cdn-vod-1.nxplay.com.br/hls/movies/e9485af9-01ec-44ea-9421-b19129ba8ce5/media_2.mp4/index-v1-a1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/668367bbbfe5b_49de9ed077e5c5cc8f119968d684bdab.jpg"group-title="FILMES AÇAO",LUPIN 3 E O CORAÇÃO PURPURA DE CLEOPATRA
 https://cdn-vod-1.nxplay.com.br/hls/movies/9fd2fc63-599c-4d5f-b27b-a36696ed78a1/media_2.mp4/index-v1-a1.m3u8
@@ -2520,8 +2170,7 @@ https://f005.backblazeb2.com/file/HubMidias/Filmes/Cora%C3%A7%C3%B5es+Apaixonado
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/61CbiY3Gu1L._AC_UF894,1000_QL80_.jpg"group-title="FILMES DRAMA",Carrington  Dias de Paixão
 
-#EXTINF:-1  tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/17/08/25/21/24/163401.jpg""group-title="FILMES COMÉDIA",Manequim
-https://f005.backblazeb2.com/file/HubMidias/Filmes/Manequim.mp4
+
 
 #EXTINF:-1  tvg-logo="https://imgur.com/LXzwc4Y.png"group-title="FILMES ROMANCE",Amantes de Verão
 https://f005.backblazeb2.com/file/HubMidias/Filmes/Amantes+de+Ver%C3%A3o.mp4
@@ -2540,6 +2189,7 @@ https://f005.backblazeb2.com/file/HubMidias/Filmes/Cora%C3%A7%C3%A3o+de+Cavaleir
 
 #EXTINF:-1  tvg-logo="http://image.tmdb.org/t/p/original/zasb6Cdge1KDE1JVXVxqrn2qKz3.jpg"group-title="FILMES AÇAO",Disfarce Perigoso
 https://f005.backblazeb2.com/file/HubMidias/Filmes/Hitman.91.mp4
+
 
 
 
